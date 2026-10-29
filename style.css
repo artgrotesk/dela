@@ -11,3 +11,5 @@
 .nav-item{font-size:14px}.task-title{font-size:12px}.task-content small{font-size:10px;color:#77856f}.subtitle{color:#75806f}.case-title{font-size:12px;color:#74816c}.case-number{font-size:10px;color:#849078}.stat-top{font-size:12px;color:#728168}.stat-foot{font-size:11px;color:#859077}.stat-foot .accent{color:#59764c}@media(max-width:580px){.stat-top{font-size:11px}.stat-foot{font-size:10px}}
 
 .local-mode-banner{justify-content:space-between}.local-mode-banner span{flex:1}#import-btn{margin-bottom:7px}@media(max-width:580px){.local-mode-banner{flex-wrap:wrap}.local-mode-banner .btn{margin-left:26px}}
+
+.auth-panel{max-width:450px;margin:55px auto}.auth-panel .modal-form{padding:25px}.auth-panel .btn[type=submit]{width:100%}#logout-btn{margin-bottom:7px}[hidden]{display:none!important}.sidebar-bottom button[hidden]{display:none!important}
